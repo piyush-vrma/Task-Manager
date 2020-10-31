@@ -1,6 +1,5 @@
-# task_manager
-
-A new Flutter application.
+# Task Manager
+A simple To Do app made using flutter sqflite package which enables this app to store the data in the device database and retrive the data from the database when the app restart. 
 
 ## Getting Started
 
